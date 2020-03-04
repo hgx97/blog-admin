@@ -1,6 +1,6 @@
 ## 简介
 
-[blog-admin](https://github.com/hgx97/blog-admin.git) 是博客后台前端，它基于 [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) 构建
+[blog-admin](https://github.com/hgx97/blog-admin) 是博客后台前端，它基于 [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) 构建
 
 ## 前序准备
 
